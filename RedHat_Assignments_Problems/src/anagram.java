@@ -7,7 +7,7 @@ class anagram {
 
 	
 	static boolean areAnagram(char str1[], char str2[])
-	{
+	{ 
 		
 		int count1[] = new int[no_of_chars];
 		Arrays.fill(count1, 0);
