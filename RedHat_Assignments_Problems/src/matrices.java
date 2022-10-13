@@ -1,9 +1,7 @@
 class matrices {
 
 	// this is a Function to print Matrix
-	static void printMatrix(int M[][],
-							int rowSize,
-							int colSize)
+	static void printMatrix(int M[][],int rowSize,int colSize)
 	{   
 		for (int i = 0; i < rowSize; i++) {
 			for (int j = 0; j < colSize; j++)

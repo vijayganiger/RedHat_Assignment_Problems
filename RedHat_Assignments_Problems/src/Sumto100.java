@@ -4,7 +4,7 @@ import java.io.PrintStream;
 
 public class Sumto100 {   
 	
-	static void print(int givenSum) {
+	static void print(int givenSum) { 
         Expression expression = new Expression();
         int counter = 0;
         for (int i = 0; i < Expression.NUMBER_OF_EXPRESSIONS; i++, expression.next()) {

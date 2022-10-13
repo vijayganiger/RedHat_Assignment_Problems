@@ -5,7 +5,6 @@ class anagram {
 
 	static int no_of_chars = 128;
 
-	
 	static boolean areAnagram(char str1[], char str2[])
 	{ 
 		  
