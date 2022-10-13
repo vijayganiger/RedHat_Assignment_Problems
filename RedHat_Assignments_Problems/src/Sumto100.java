@@ -2,7 +2,7 @@
 import java.io.PrintStream;
 
 
-public class Sumto100 {  
+public class Sumto100 {   
 	
 	static void print(int givenSum) {
         Expression expression = new Expression();
