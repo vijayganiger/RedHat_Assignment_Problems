@@ -1,4 +1,4 @@
-class matrices {
+class matrices { 
 
 	// this is a Function to print Matrix
 	static void printMatrix(int M[][],int rowSize,int colSize)
