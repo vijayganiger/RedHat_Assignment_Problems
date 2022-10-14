@@ -15,7 +15,7 @@ public class Sumto100 {
                  expression.print();
                 break;
                 }
-                counter++; 
+                counter++;  
             }
         }
     }
