@@ -17,7 +17,7 @@ class matrices {
 		int row1, int col1, int A[][],
 		int row2, int col2, int B[][])
 	{
-		int i, j, k;
+		int i, j, k; 
 
 		
 		if (row2 != col1) {

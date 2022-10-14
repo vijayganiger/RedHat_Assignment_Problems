@@ -12,7 +12,7 @@ class anagram {
 		Arrays.fill(count1, 0);
 		int count2[] = new int[no_of_chars];
 		Arrays.fill(count2, 0);
-		int i;
+		int i; 
 
 		
 		for (i = 0; i < str1.length && i < str2.length;
